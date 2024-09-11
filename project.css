@@ -1,0 +1,189 @@
+
+  body{
+     font:15px/1.5 Arial, Helvetica, Sans-serif;
+     padding: 0;
+     margin: 0;
+     background-color:#00ffff10;
+   
+}
+/* Global*/
+ ul{
+    margin:0;
+    padding:0;
+}
+.container{
+    width:80%;
+    margin: auto;
+    overflow:hidden;
+}
+.button_1{
+    height:30px;
+    background: #e85627;
+    border-radius: 10px;
+    padding-left:20px;
+    padding-right:20px;
+    color:#ffffff;
+}
+.dark{
+    padding:15px;
+    background:#cae8f2;
+    color: #000000;
+    
+}
+/* header*/
+ header{
+    background:#0f2143 ;
+    color:#ffffff;
+    padding:10px;
+    min-height:50px;
+    border-bottom:#e85627 5px dotted; 
+ }
+ header a{
+     color:#ffffff;
+     text-decoration:none;
+     text-transform:uppercase;
+    font-size: 20px;
+     
+ }
+ header li{
+     float:left;
+     display:inline;
+     padding:0 20px 0 20px;
+ }
+ header #branding{
+     float:left;
+ }
+ header#branding h1{
+     margin: 0;
+ }
+ header nav{
+    float: Right;
+    margin-top:30px;
+    }
+.current a,.highlights{
+color: cyan;
+    
+}
+a:hover{
+    color: indigo;
+    font-weight:bold;
+}
+
+/* showcase */
+ #showcase{
+    min-height:400px;
+    background: url("../img/res.jpg") no-repeat;
+    background-position: center; 
+    background-size: cover;
+    text-align:center;
+    color: #ffffff;
+   
+} 
+ #showcase {
+ margin-top:-70px;
+ font-size:55px;
+ 
+} 
+#showcase p{
+    font-size:30px;
+}
+
+/* newsletter */
+#Newsletter{
+background-color:#0f2143;
+color: #ffffff;
+padding: 50px;
+margin-top:-30px;
+    
+}
+#Newsletter h1{
+float:left;
+margin-top:-20px;
+    
+    
+}
+#Newsletter form{
+    float:right;
+    margin-top:-15px;
+}
+#Newsletter input[type="email"]{
+    padding:4px;
+}
+/* boxes */
+#boxes{
+    margin-top:px;
+}
+
+
+h3{
+    font-size:25px;
+}
+
+p.para{
+    font-size:15px;
+}
+footer{
+    background-color:#0003ffc9;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size:20px;
+}
+p.chop{
+    font-size:30px
+}
+p{
+    font-size:20px
+}
+#boxes .box{
+    float:left;
+    text-align: center;
+    width:30%;
+    padding:10px;
+    margin-top:10px;
+}
+footer.foot{
+    background-color:#0f2143;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size:20px;
+    margin-top: 900px;
+    
+}
+footer.footer{
+    background-color:#0f2143;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size:20px;
+    margin-top: 500px;
+    
+}
+footer{
+    background-color:#0f2143;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size:20px;
+    margin-top:0px;
+    
+}
+
+span.sidebar{
+    padding:0;
+}
+h1.page{
+    font-size:40px;
+}
+aside.sidebar{
+    float:right;
+    width:30%;
+    margin-top:px; 
+    
+}
+article#main-col{
+    width:90%;
+    float:left;
+    margin-right:120px;
+}

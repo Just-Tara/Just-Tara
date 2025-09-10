@@ -1,6 +1,6 @@
 # Hi, I'm Tara 
 
-💻 **Frontend Developer** from Nigeria | **Mechanical Engineering Student**  
+**Frontend Developer** from Nigeria | **Mechanical Engineering Student**  
 
 I’m passionate about crafting **clean, responsive UIs** and bringing ideas to life with **modern web technologies**.  
 Always learning, building, and sharing my journey.  

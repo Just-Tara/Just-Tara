@@ -62,7 +62,7 @@ const tara = {
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ Codrume *(Flagship)*
+###  Codrume 
 > A browser-based IDE that actually runs code.
 
 Built with **React + Vite**, powered by the **Piston API** for multi-language execution in the browser — no backend of your own needed.
@@ -79,7 +79,7 @@ Built with **React + Vite**, powered by the **Piston API** for multi-language ex
 </td>
 <td width="50%" valign="top">
 
-### 🩺 First Aid Guide *(In Progress)*
+### First Aid Guide 
 > Life-saving info, offline-ready, AI-powered.
 
 A **Next.js PWA** with Claude API integration for AI symptom checking, voice I/O via Web Speech API, and 40+ emergency guides across multiple categories.
@@ -98,7 +98,7 @@ A **Next.js PWA** with Claude API integration for AI symptom checking, voice I/O
 <tr>
 <td width="50%" valign="top">
 
-### 🎵 Lyrics Finder
+### Lyrics Finder
 > Search songs, hear them spoken back.
 
 Clean lyrics search app with **voice search support** and real-time results — fast, responsive, no clutter.
@@ -108,7 +108,7 @@ Clean lyrics search app with **voice search support** and real-time results — 
 </td>
 <td width="50%" valign="top">
 
-### 💱 Currency Converter
+### Currency Converter
 > Exchange rates, smooth UI, no friction.
 
 Real-time currency conversion with live API data and a polished interface that doesn't get in the way.
@@ -126,8 +126,6 @@ Real-time currency conversion with live API data and a polished interface that d
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Just-Tara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Just-Tara&theme=tokyonight&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f85149&currStreakLabel=c9d1d9" />
-
 </div>
 
 ---
@@ -139,10 +137,3 @@ Real-time currency conversion with live API data and a polished interface that d
 
 ---
 
-<div align="center">
-
-*"Clean code, clean design, clear impact."*
-
-**— Tara · github.com/Just-Tara**
-
-</div>

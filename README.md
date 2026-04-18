@@ -24,41 +24,35 @@ Building clean, responsive, and modern web experiences
 
 ---
 
-## Featured Projects
+##  Featured Projects
+
+### Codrume (Flagship Project)
+A modern web-based IDE built with React + Vite that supports multi-language coding, live preview, and backend code execution via Piston API.
+
+Features include:
+- Monaco-powered code editor with syntax highlighting
+- Live preview for HTML/CSS/JS projects
+- Multi-language backend execution (Python, Java, C++, etc.)
+- File & project management system
+- Shareable code URLs
+- Theme toggle + auto-save functionality
+
+---
 
 ###  Lyrics Finder App  
-Search and display song lyrics with voice search and a clean UI  
-🔗 https://your-live-link.com  
+A clean and responsive lyrics search app with voice search support and real-time results rendering.
 
 ---
 
-### Currency Converter  
-Modern converter with API integration and animated UI  
-🔗 https://your-live-link.com  
+###  Currency Converter  
+A modern currency converter with API integration and smooth UI experience.
 
 ---
 
-###  Codrume  
-A platform focused on [briefly explain what it does — don’t leave it vague]  
-🔗 https://your-live-link.com  
+###  BMI Calculator  
+Simple and fast health calculator with a clean interface for quick results.  
 
 ---
-
-### POI Finder  
-Find points of interest with a smooth and responsive interface  
-🔗 https://your-live-link.com  
-
----
-
-##  More Projects
-
-- **First Aid Guide** — Emergency help tips and quick actions  
--  **Expense Tracker** — Track spending with a clean dashboard  
-- **BMI Calculator** — Health calculator with simple UI  
--  More on my GitHub → https://github.com/Just-Tara
-
-  ---
-  
 ##  GitHub Stats
 
 <p align="center">

@@ -9,9 +9,7 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-### `Frontend Developer` · `Mechanical Engineering Student` · `Builder in Public`
-
-*Crafting interfaces that are clean, intentional, and actually useful.*
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Frontend+Developer+%C2%B7+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;Building+Nexus+Chat+in+real-time;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Tailwind;Clean+interfaces%2C+intentional+code)](https://git.io/typing-svg)
 
 [![Twitter/X](https://img.shields.io/badge/𝕏_%40J__Tara__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/J_Tara_)
 [![GitHub](https://img.shields.io/badge/Just--Tara-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Just-Tara)
@@ -21,119 +19,77 @@
 
 ---
 
-## ▸ Who I Am
+### ▸ Who I Am
 
-```ts
+```js
 const tara = {
-  role:       ["Frontend Developer", "Mechanical Engineering Student"],
-  university:  "OAUSTECH — 400 Level",
-  location:    "Ibadan, Nigeria 🇳🇬",
-  stack:       ["TypeScript", "React.js", "Next.js", "Tailwind CSS" "JavaScript"],
+  role:         ["Frontend Developer", "Mechanical Engineering Student"],
+  university:   "OAUSTECH — 400 Level",
+  location:     "Ibadan, Nigeria 🇳🇬",
+  stack:        ["TypeScript", "React.js", "Next.js", "Tailwind CSS", "JavaScript"],
   currentFocus: "Building things worth showing",
-  building:    "First Aid Guide App — AI-powered, offline-capable PWA",
-  
+  building:     "Nexus Chat — real-time chat app with Socket.io",
 };
 ```
 
----
+### ▸ Tech Stack
 
-## ▸ Tech Stack
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</div>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-## ▸ Featured Projects
+### ▸ Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**🟢 Nexus Chat** — *In Progress*
+Full-stack real-time chat app with live messaging via Socket.io, built on Next.js/TypeScript with an Express + MongoDB backend and active presence features.
+`Next.js` `TypeScript` `Tailwind CSS` `Express.js` `MongoDB` `Socket.io`
 
-###  Codrume 
-> A browser-based IDE that actually runs code.
+**TrackrAid — Advanced Income & Expense Tracker**
+Full responsive expense tracker built end-to-end, frontend and backend, with dark/light mode, interactive spending-trend charts, and exportable PDF reports.
+`React.js` `Tailwind CSS` `Node.js` `Express.js`
 
-Built with **React + Vite**, powered by the **Piston API** for multi-language execution in the browser — no backend of your own needed.
-
-**What makes it click:**
-- Monaco editor with syntax highlighting
-- Live preview for HTML/CSS/JS
-- Multi-language support: Python, Java, C++...
-- Shareable code URLs + project management
-- Theme toggle & auto-save
-
+**Codrume — Browser-Based Code Editor**
+A browser-based IDE that runs code in multiple languages via the Piston API, with a Monaco editor, live HTML/CSS/JS preview, shareable code URLs, and theme toggle.
 `React` `Vite` `Monaco` `Piston API`
 
-</td>
-<td width="50%" valign="top">
-
-### First Aid Guide 
-> Life-saving info, offline-ready, AI-powered.
-
-A **Next.js PWA** with Claude API integration for AI symptom checking, voice I/O via Web Speech API, and 40+ emergency guides across multiple categories.
-
-**Standout features:**
-- Works offline — built as a PWA
-- AI symptom checker + keyword fallback
-- Voice input & output support
-- Multi-country emergency numbers
-- Dark UI with intentional red accents
-
+**First Aid Guide** — *Paused*
+Next.js PWA with Claude API–powered symptom checking, voice input/output via the Web Speech API, offline support, and 40+ emergency guides across categories.
 `Next.js` `TypeScript` `Claude API` `Tailwind`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Lyrics Finder
-> Search songs, hear them spoken back.
-
-Clean lyrics search app with **voice search support** and real-time results — fast, responsive, no clutter.
-
+**Lyrics Finder**
+Clean lyrics search app with voice search support and real-time results.
 `React` `Voice API` `REST API`
 
-</td>
-<td width="50%" valign="top">
-
-### Currency Converter
-> Exchange rates, smooth UI, no friction.
-
-Real-time currency conversion with live API data and a polished interface that doesn't get in the way.
-
+**Currency Converter**
+Real-time currency conversion with live exchange-rate data and a polished, frictionless UI.
 `React` `Exchange Rate API` `Tailwind`
-
-</td>
-</tr>
-</table>
 
 ---
 
-## ▸ GitHub Stats
+### ▸ GitHub Stats
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Just-Tara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api?username=Just-Tara&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Just-Tara&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 ---
 
-## ▸ Currently
+### ▸ Currently
 
-- Finishing the **First Aid Guide** PWA — AI features, voice I/O, offline support
-- 400-level **Mechanical Engineering** at OAUSTECH
+- 🔨 Building **Nexus Chat** — real-time messaging with Socket.io
+- 🎓 400-level Mechanical Engineering at OAUSTECH
+- 📌 Open to Frontend Developer roles
 
----
+<div align="center">
 
+`console.log("thanks for stopping by 👋")`
+
+</div>

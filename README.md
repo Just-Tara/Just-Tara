@@ -59,17 +59,17 @@ Full responsive expense tracker built end-to-end, frontend and backend, with dar
 A browser-based IDE that runs code in multiple languages via the Piston API, with a Monaco editor, live HTML/CSS/JS preview, shareable code URLs, and theme toggle.
 `React` `Vite` `Monaco` `Piston API`
 
-**First Aid Guide** — *Paused*
+**First Aid Guide** — *in progress*
 Next.js PWA with Claude API–powered symptom checking, voice input/output via the Web Speech API, offline support, and 40+ emergency guides across categories.
 `Next.js` `TypeScript` `Claude API` `Tailwind`
 
 **Lyrics Finder**
 Clean lyrics search app with voice search support and real-time results.
-`React` `Voice API` `REST API`
+
 
 **Currency Converter**
 Real-time currency conversion with live exchange-rate data and a polished, frictionless UI.
-`React` `Exchange Rate API` `Tailwind`
+
 
 ---
 

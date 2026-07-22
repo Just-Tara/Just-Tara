@@ -59,7 +59,7 @@ A browser-based IDE that runs code in multiple languages via the Piston API, wit
 `React` `Vite` `Monaco` `Piston API`
 
 **ClipFind (Backend Contributor)** – An AI powered media identification engine that processes video uploads using FFmpeg, extracts visual frames, and leverages OpenAI's GPT-4o Vision alongside Tavily's search API. It features an asynchronous, fire-and-forget background processing architecture with automated server storage management.
-Node.js Express.js MongoDB FFmpeg OpenAI API Tavily API
+`Node.js` `Express.js` `MongoDB` `FFmpeg` `OpenAI API` `Tavily API`
 
 **First Aid Guide** — *in progress*
 Next.js PWA with Claude API–powered symptom checking, voice input/output via the Web Speech API, offline support, and 40+ emergency guides across categories.

@@ -87,7 +87,7 @@ Real-time currency conversion with live exchange-rate data and a polished, frict
 ### ▸ Currently
 
 – 400 level Mechanical Engineering at OAUSTECH
-- 📌 Open to Frontend Developer roles
+- 📌 Open to Fullstack developer roles
 
 <div align="center">
 

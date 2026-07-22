@@ -9,7 +9,7 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Frontend+Developer+%C2%B7+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;Building+Nexus+Chat+in+real-time;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Tailwind;Clean+interfaces%2C+intentional+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Frontend+Developer+%C2%B7+Nigeria+%F0%9F%87%B3%F0%9F%87%AC;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Tailwind;Clean+interfaces%2C+intentional+code)](https://git.io/typing-svg)
 
 [![Twitter/X](https://img.shields.io/badge/𝕏_%40J__Tara__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/J_Tara_)
 [![GitHub](https://img.shields.io/badge/Just--Tara-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Just-Tara)
@@ -28,7 +28,6 @@ const tara = {
   location:     "Ibadan, Nigeria 🇳🇬",
   stack:        ["TypeScript", "React.js", "Next.js", "Tailwind CSS", "JavaScript"],
   currentFocus: "Building things worth showing",
-  building:     "Nexus Chat — real-time chat app with Socket.io",
 };
 ```
 
@@ -47,7 +46,7 @@ const tara = {
 
 ### ▸ Featured Projects
 
-**🟢 Nexus Chat** — *In Progress*
+**Nexus Chat** — 
 Full-stack real-time chat app with live messaging via Socket.io, built on Next.js/TypeScript with an Express + MongoDB backend and active presence features.
 `Next.js` `TypeScript` `Tailwind CSS` `Express.js` `MongoDB` `Socket.io`
 
@@ -58,6 +57,9 @@ Full responsive expense tracker built end-to-end, frontend and backend, with dar
 **Codrume — Browser-Based Code Editor**
 A browser-based IDE that runs code in multiple languages via the Piston API, with a Monaco editor, live HTML/CSS/JS preview, shareable code URLs, and theme toggle.
 `React` `Vite` `Monaco` `Piston API`
+
+**ClipFind (Backend Contributor)** – An AI powered media identification engine that processes video uploads using FFmpeg, extracts visual frames, and leverages OpenAI's GPT-4o Vision alongside Tavily's search API. It features an asynchronous, fire-and-forget background processing architecture with automated server storage management.
+Node.js Express.js MongoDB FFmpeg OpenAI API Tavily API
 
 **First Aid Guide** — *in progress*
 Next.js PWA with Claude API–powered symptom checking, voice input/output via the Web Speech API, offline support, and 40+ emergency guides across categories.
@@ -84,8 +86,7 @@ Real-time currency conversion with live exchange-rate data and a polished, frict
 
 ### ▸ Currently
 
-- 🔨 Building **Nexus Chat** — real-time messaging with Socket.io
-- 🎓 400-level Mechanical Engineering at OAUSTECH
+– 400 level Mechanical Engineering at OAUSTECH
 - 📌 Open to Frontend Developer roles
 
 <div align="center">
